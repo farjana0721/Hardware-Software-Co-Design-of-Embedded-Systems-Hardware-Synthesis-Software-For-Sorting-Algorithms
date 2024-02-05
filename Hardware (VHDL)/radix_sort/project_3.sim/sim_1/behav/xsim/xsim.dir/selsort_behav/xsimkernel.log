@@ -1,0 +1,4 @@
+Running: xsim.dir/selsort_behav/xsimk.exe -simmode gui -wdb selsort_behav.wdb -simrunnum 0 -socket 51627
+Design successfully loaded
+Design Loading Memory Usage: 8016 KB (Peak: 8016 KB)
+Design Loading CPU Usage: 0 ms

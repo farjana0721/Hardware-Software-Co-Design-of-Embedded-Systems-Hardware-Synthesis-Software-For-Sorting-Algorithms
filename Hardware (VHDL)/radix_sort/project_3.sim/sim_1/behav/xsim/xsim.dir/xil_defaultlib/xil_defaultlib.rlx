@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch04_10_cnt_xec.vhd,1670525177,vhdl,C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_04_selsort_top.vhd,,,xec_cnt,,,,,,,,
+C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch04_10_xreg.vhd,1669978763,vhdl,C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_04_selsort_top.vhd,,,xreg,,,,,,,,
+C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch04_11_mod_m.vhd,1669978763,vhdl,C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_04_selsort_top.vhd,,,mod_m_counter,,,,,,,,
+C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch05_01_02_fsm.vhd,1670604688,vhdl,C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_04_selsort_top.vhd,,,ctr_path,,,,,,,,
+C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_01_uart_rx.vhd,1670525088,vhdl,C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_04_selsort_top.vhd,,,uart_rx,,,,,,,,
+C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_03_uart_tx.vhd,1669978763,vhdl,C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_04_selsort_top.vhd,,,uart_tx,,,,,,,,
+C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_04_selsort_top.vhd,1670604666,vhdl,,,,selsort,,,,,,,,
+C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch11_01_x_ram.vhd,1670525350,vhdl,C:/Users/nabil/OneDrive/Documents/Embedded Systems/Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_04_selsort_top.vhd,,,xilinx_one_port_ram_sync,,,,,,,,

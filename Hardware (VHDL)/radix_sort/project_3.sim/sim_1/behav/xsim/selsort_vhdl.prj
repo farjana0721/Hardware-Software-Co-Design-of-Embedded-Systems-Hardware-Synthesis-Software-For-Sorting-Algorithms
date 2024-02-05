@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch04_10_cnt_xec.vhd" \
+"../../../../../Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch04_10_xreg.vhd" \
+"../../../../../Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch04_11_mod_m.vhd" \
+"../../../../../Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch05_01_02_fsm.vhd" \
+"../../../../../Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_01_uart_rx.vhd" \
+"../../../../../Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_03_uart_tx.vhd" \
+"../../../../../Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch11_01_x_ram.vhd" \
+"../../../../../Project Demo/FSMD-20221202T105840Z-001/FSMD/list_ch07_04_selsort_top.vhd" \
+
+# Do not sort compile order
+nosort

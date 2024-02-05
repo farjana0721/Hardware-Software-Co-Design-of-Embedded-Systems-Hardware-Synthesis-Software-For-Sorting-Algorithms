@@ -1,0 +1,22 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: F:/xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot bubble_behav xil_defaultlib.bubble -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture arch of entity xil_defaultlib.mod_m_counter [mod_m_counter_default]
+Compiling architecture arch of entity xil_defaultlib.uart_rx [uart_rx_default]
+Compiling architecture arch of entity xil_defaultlib.uart_tx [uart_tx_default]
+Compiling architecture arch of entity xil_defaultlib.xec_cnt [xec_cnt_default]
+Compiling architecture arch of entity xil_defaultlib.xreg [xreg_default]
+Compiling architecture arch of entity xil_defaultlib.xilinx_one_port_ram_sync [xilinx_one_port_ram_sync_default]
+Compiling architecture arch of entity xil_defaultlib.ctr_path [ctr_path_default]
+Compiling architecture str_arch of entity xil_defaultlib.bubble
+Built simulation snapshot bubble_behav

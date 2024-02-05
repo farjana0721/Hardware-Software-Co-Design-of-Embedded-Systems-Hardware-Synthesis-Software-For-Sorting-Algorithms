@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../bubble_sort.srcs/sources_1/imports/FSMD/list_ch04_10_cnt_xec.vhd" \
+"../../../../bubble_sort.srcs/sources_1/imports/FSMD/list_ch04_10_xreg.vhd" \
+"../../../../bubble_sort.srcs/sources_1/imports/FSMD/list_ch04_11_mod_m.vhd" \
+"../../../../bubble_sort.srcs/sources_1/imports/FSMD/list_ch05_01_02_fsm.vhd" \
+"../../../../bubble_sort.srcs/sources_1/imports/FSMD/list_ch07_01_uart_rx.vhd" \
+"../../../../bubble_sort.srcs/sources_1/imports/FSMD/list_ch07_03_uart_tx.vhd" \
+"../../../../bubble_sort.srcs/sources_1/imports/FSMD/list_ch11_01_x_ram.vhd" \
+"../../../../bubble_sort.srcs/sources_1/imports/FSMD/list_ch07_04_selsort_top.vhd" \
+
+# Do not sort compile order
+nosort

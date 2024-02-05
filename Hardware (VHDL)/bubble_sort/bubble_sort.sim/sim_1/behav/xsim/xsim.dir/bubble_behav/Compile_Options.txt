@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "bubble_behav" "xil_defaultlib.bubble" -log "elaborate.log" 
